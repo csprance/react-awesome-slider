@@ -1,4 +1,5 @@
-# React &lt;AwesomeSlider /&gt;
+# React &lt;AwesomeSlider 
+> Original Version by @rcaferati Typescript/Styled-Compoments Fork By @Csprance
 
 [![Travis](https://img.shields.io/travis/rcaferati/react-awesome-slider/master.svg)](https://travis-ci.org/rcaferati/react-awesome-slider) ![NPM](https://img.shields.io/npm/v/react-awesome-slider.svg)
 

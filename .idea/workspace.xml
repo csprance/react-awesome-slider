@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac1dce91-b60a-4b7d-8fa3-7b254040385e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/helpers/tests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.postcssrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/body/body.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/body/body.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/borderPicker/borderPicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/borderPicker/borderPicker.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/colorPicker/colorPicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/colorPicker/colorPicker.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/composer/composer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/composer/composer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/customiser/customiser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/customiser/customiser.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/example/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/example/example.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/footer/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/footer/footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/header/header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/header/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/navigation/navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/navigation/navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/page/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/pageRibbon/pageRibbon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/pageRibbon/pageRibbon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/popover/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/popover/popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/section/section.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/components/section/section.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/demo_save.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/examples/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/examples/example/captioned.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/examples/example/fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/examples/example/images.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/examples/example/lettering.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/examples/example/scaling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/examples/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/helpers/base.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/helpers/examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/css-customiser.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/demo-bojack-mobile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/demo-bojack.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/demo-lettering.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/demo-south-park.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/demo-stranger.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/figma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/bojack-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/bojack-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/bojack-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/bojack-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/bojack-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/bojack-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/bojack-loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/ricknmorty-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/ricknmorty-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/ricknmorty-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/ricknmorty-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/ricknmorty-loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/south-park-0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/south-park-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/south-park-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/south-park-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/south-park-loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/stranger-things-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/stranger-things-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/stranger-things-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/series/stranger-things-loader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/support.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/van-gogh/starry-night-drawing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/van-gogh/starry-night-over-the-rhone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/van-gogh/starry-night.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/van-gogh/wheat-field-with-cypresses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/van-gogh/wheatfield-under-thunderclouds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/images/van-gogh/white-house-night.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/website/react-awesome-slider-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/website/react-awesome-slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/public/website/react-awesome-slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc/animated-lettering/hoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc/animated-lettering/hoc.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc/animated-lettering/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc/animated-lettering/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc/captioned-images/hoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc/captioned-images/hoc.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hoc/captioned-images/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hoc/captioned-images/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/react-awesome-frame/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/react-awesome-frame/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styled/fold-out-animation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/fold-out-animation/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/styled/scale-out-animation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/styled/scale-out-animation/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/bullets.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/bullets.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/buttons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/helpers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/media.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/media.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/components.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/@types/globals.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.demo.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.scss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.server.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.website.config.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1OyDucplRxjMTYrRXykYqeAoepR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\chris\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\192.5728.98\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac1dce91-b60a-4b7d-8fa3-7b254040385e" name="Default Changelist" comment="" />
+      <created>1564941166466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564941166466</updated>
+      <workItem from="1564941167964" duration="5974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
